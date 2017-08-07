@@ -1,0 +1,20 @@
+{
+  "name": "poi-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "poi": "^9.1.11",
+    "poi-preset-typescript": "^9.0.1",
+    "typescript": "^2.4.2",
+    "vue-class-component": "^5.0.2",
+    "vue-router": "^2.7.0",
+    "vuex": "^2.3.1",
+    "vuex-typex": "^1.0.9"
+  }
+}
