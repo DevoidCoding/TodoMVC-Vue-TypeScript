@@ -12,7 +12,7 @@ This folder contains the implementation done with [vuex-typex](https://github.co
 
 ## Usage
 
-### vuex-typescript
+### For [vuex-typescript](https://github.com/istrib/vuex-typescript)
 
 ```
 cd .\vuex-typescript\
@@ -20,10 +20,18 @@ npm install
 poi .\src\index.ts
 ```
 
-### vuex-typex
+### For [vuex-typex](https://github.com/mrcrowl/vuex-typex)
 
 ```
 cd .\vuex-typex\
 npm install
 poi .\src\index.ts
 ```
+
+## Contributing
+
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request !
